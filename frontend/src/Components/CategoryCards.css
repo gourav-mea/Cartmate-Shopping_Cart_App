@@ -1,0 +1,11 @@
+/* custom button css */
+.btn-outline-custom {
+  color: rgb(38, 0, 38,0.8);
+  /* border: 2px solid; */
+  border-color: rgb(38, 0, 38,0.8);
+}
+
+.btn-outline-custom:hover {
+  background-color: rgb(38, 0, 38,0.8);
+  color: #fff; 
+}
